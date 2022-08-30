@@ -1,0 +1,80 @@
+Date,Ship Type,Ship Count
+5/1/1942,Aircraft Carrier,2
+5/1/1942,Destroyer,1
+7/1/1942,Aircraft Carrier,4
+7/1/1942,Cruiser,1
+8/1/1942,Aircraft Carrier,1
+8/1/1942,Destroyer,1
+10/1/1942,Cruiser,1
+10/1/1942,Destroyer,1
+10/1/1942,Aircraft Carrier,2
+11/1/1942,Battleship,1
+11/1/1942,Destroyer,2
+11/1/1942,Battleship,1
+11/1/1942,Destroyer,1
+12/1/1942,Destroyer,1
+3/1/1943,Cruiser,1
+7/1/1943,Destroyer,2
+7/1/1943,Cruiser,1
+11/1/1943,Cruiser,1
+11/1/1943,Destroyer,1
+6/1/1944,Aircraft Carrier,3
+10/1/1944,Battleship,1
+10/1/1944,Cruiser,1
+10/1/1944,Battleship,2
+10/1/1944,Cruiser,2
+10/1/1944,Destroyer,3
+10/1/1944,Cruiser,3
+10/1/1944,Destroyer,6
+10/1/1944,Aircraft Carrier,4
+10/1/1944,Cruiser,3
+12/1/1941,Submarine,3
+12/1/1942,Submarine,19
+12/1/1943,Submarine,23
+12/1/1944,Submarine,56
+4/1/1945,Submarine,29
+12/1/1941,Merchant Shipping,12
+1/1/1942,Merchant Shipping,17
+2/1/1942,Merchant Shipping,9
+3/1/1942,Merchant Shipping,20
+4/1/1942,Merchant Shipping,9
+5/1/1942,Merchant Shipping,24
+6/1/1942,Merchant Shipping,10
+7/1/1942,Merchant Shipping,12
+8/1/1942,Merchant Shipping,23
+9/1/1942,Merchant Shipping,14
+10/1/1942,Merchant Shipping,36
+11/1/1942,Merchant Shipping,30
+12/1/1942,Merchant Shipping,25
+1/1/1943,Merchant Shipping,34
+2/1/1943,Merchant Shipping,21
+3/1/1943,Merchant Shipping,37
+4/1/1943,Merchant Shipping,26
+5/1/1943,Merchant Shipping,34
+6/1/1943,Merchant Shipping,26
+7/1/1943,Merchant Shipping,25
+8/1/1943,Merchant Shipping,24
+9/1/1943,Merchant Shipping,45
+10/1/1943,Merchant Shipping,39
+11/1/1943,Merchant Shipping,70
+12/1/1943,Merchant Shipping,53
+1/1/1944,Merchant Shipping,95
+2/1/1944,Merchant Shipping,112
+3/1/1944,Merchant Shipping,67
+4/1/1944,Merchant Shipping,38
+5/1/1944,Merchant Shipping,64
+6/1/1944,Merchant Shipping,71
+7/1/1944,Merchant Shipping,66
+8/1/1944,Merchant Shipping,66
+9/1/1944,Merchant Shipping,120
+10/1/1944,Merchant Shipping,130
+11/1/1944,Merchant Shipping,97
+12/1/1944,Merchant Shipping,43
+1/1/1945,Merchant Shipping,101
+2/1/1945,Merchant Shipping,33
+3/1/1945,Merchant Shipping,81
+4/1/1945,Merchant Shipping,52
+5/1/1945,Merchant Shipping,118
+6/1/1945,Merchant Shipping,123
+7/1/1945,Merchant Shipping,145
+8/1/1945,Merchant Shipping,48

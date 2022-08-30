@@ -1,0 +1,191 @@
+﻿Date,Type,Amount,Unit of measure
+12/1/1942,Coal,61.3,Metric Tons
+12/1/1943,Coal,60.5,Metric Tons
+12/1/1944,Coal,51.7,Metric Tons
+5/1/1945,Coal,11.0,Metric Tons
+12/1/1942,Iron,7.4,Metric Tons
+12/1/1943,Iron,6.7,Metric Tons
+12/1/1944,Iron,6.0,Metric Tons
+5/1/1945,Iron,0.9,Metric Tons
+12/1/1942,Steel,8.0,Metric Tons
+12/1/1943,Steel,8.8,Metric Tons
+12/1/1944,Steel,6.5,Metric Tons
+5/1/1945,Steel,0.8,Metric Tons
+12/1/1942,Aluminum,103.0,Metric Tons
+12/1/1943,Aluminum,141.0,Metric Tons
+12/1/1944,Aluminum,110.0,Metric Tons
+5/1/1945,Aluminum,7.0,Metric Tons
+12/1/1939,Aircraft,4467.0,Planes
+12/1/1940,Aircraft,4768.0,Planes
+12/1/1941,Aircraft,5088.0,Planes
+12/1/1942,Aircraft,8861.0,Planes
+12/1/1943,Aircraft,16693.0,Planes
+12/1/1944,Aircraft,28180.0,Planes
+5/1/1945,Aircraft,8263.0,Planes
+12/1/1939,Merchant Shipping,320466.0,Gross Tons
+12/1/1940,Merchant Shipping,293612.0,Gross Tons
+12/1/1941,Merchant Shipping,210373.0,Gross Tons
+12/1/1942,Merchant Shipping,260059.0,Gross Tons
+12/1/1943,Merchant Shipping,796085.0,Gross Tons
+12/1/1944,Merchant Shipping,1699203.0,Gross Tons
+5/1/1945,Merchant Shipping,599563.0,Gross Tons
+12/1/1941,Tanker Tonnage,578000.0,Gross Tons
+12/1/1942,Tanker Tonnage,686000.0,Gross Tons
+12/1/1943,Tanker Tonnage,873000.0,Gross Tons
+12/1/1944,Tanker Tonnage,860000.0,Gross Tons
+5/1/1945,Tanker Tonnage,266948.0,Gross Tons
+12/1/1941,Shipping Tonnage Lost,-57758.0,Gross Tons
+1/1/1942,Shipping Tonnage Lost,-73865.0,Gross Tons
+2/1/1942,Shipping Tonnage Lost,-37291.0,Gross Tons
+3/1/1942,Shipping Tonnage Lost,-103095.0,Gross Tons
+4/1/1942,Shipping Tonnage Lost,-42796.0,Gross Tons
+5/1/1942,Shipping Tonnage Lost,-105128.0,Gross Tons
+6/1/1942,Shipping Tonnage Lost,-38519.0,Gross Tons
+7/1/1942,Shipping Tonnage Lost,-62331.0,Gross Tons
+8/1/1942,Shipping Tonnage Lost,-114281.0,Gross Tons
+9/1/1942,Shipping Tonnage Lost,-54478.0,Gross Tons
+10/1/1942,Shipping Tonnage Lost,-176997.0,Gross Tons
+11/1/1942,Shipping Tonnage Lost,-168253.0,Gross Tons
+12/1/1942,Shipping Tonnage Lost,-88364.0,Gross Tons
+1/1/1943,Shipping Tonnage Lost,-158885.0,Gross Tons
+2/1/1943,Shipping Tonnage Lost,-92662.0,Gross Tons
+3/1/1943,Shipping Tonnage Lost,-147540.0,Gross Tons
+4/1/1943,Shipping Tonnage Lost,-132724.0,Gross Tons
+5/1/1943,Shipping Tonnage Lost,-134661.0,Gross Tons
+6/1/1943,Shipping Tonnage Lost,-105108.0,Gross Tons
+7/1/1943,Shipping Tonnage Lost,-84361.0,Gross Tons
+8/1/1943,Shipping Tonnage Lost,-100064.0,Gross Tons
+9/1/1943,Shipping Tonnage Lost,-178966.0,Gross Tons
+10/1/1943,Shipping Tonnage Lost,-158093.0,Gross Tons
+11/1/1943,Shipping Tonnage Lost,-320807.0,Gross Tons
+12/1/1943,Shipping Tonnage Lost,-207048.0,Gross Tons
+1/1/1944,Shipping Tonnage Lost,-355368.0,Gross Tons
+2/1/1944,Shipping Tonnage Lost,-518697.0,Gross Tons
+3/1/1944,Shipping Tonnage Lost,-263805.0,Gross Tons
+4/1/1944,Shipping Tonnage Lost,-128328.0,Gross Tons
+5/1/1944,Shipping Tonnage Lost,-258591.0,Gross Tons
+6/1/1944,Shipping Tonnage Lost,-278484.0,Gross Tons
+7/1/1944,Shipping Tonnage Lost,-251921.0,Gross Tons
+8/1/1944,Shipping Tonnage Lost,-295022.0,Gross Tons
+9/1/1944,Shipping Tonnage Lost,-419112.0,Gross Tons
+10/1/1944,Shipping Tonnage Lost,-512378.0,Gross Tons
+11/1/1944,Shipping Tonnage Lost,-421026.0,Gross Tons
+12/1/1944,Shipping Tonnage Lost,-118287.0,Gross Tons
+1/1/1945,Shipping Tonnage Lost,-434648.0,Gross Tons
+2/1/1945,Shipping Tonnage Lost,-101541.0,Gross Tons
+3/1/1945,Shipping Tonnage Lost,-194649.0,Gross Tons
+4/1/1945,Shipping Tonnage Lost,-125673.0,Gross Tons
+5/1/1945,Shipping Tonnage Lost,-270703.0,Gross Tons
+6/1/1945,Shipping Tonnage Lost,-245930.0,Gross Tons
+7/1/1945,Shipping Tonnage Lost,-309902.0,Gross Tons
+8/1/1945,Shipping Tonnage Lost,-99094.0,Gross Tons
+12/1/1941,Oil Consumption,-22.6,Million Barrels
+12/1/1942,Oil Consumption,-25.8,Million Barrels
+12/1/1943,Oil Consumption,-27.8,Million Barrels
+12/1/1944,Oil Consumption,-19.4,Million Barrels
+8/1/1945,Oil Consumption,-4.6,Million Barrels
+12/1/1941,Oil Imports,8.4,Million Barrels
+12/1/1942,Oil Imports,10.5,Million Barrels
+12/1/1943,Oil Imports,14.5,Million Barrels
+12/1/1944,Oil Imports,5.0,Million Barrels
+8/1/1945,Oil Imports,0.0,Million Barrels
+12/1/1941,Crude Oil Production,2.3,Million Barrels
+12/1/1942,Crude Oil Production,3.2,Million Barrels
+12/1/1943,Crude Oil Production,2.8,Million Barrels
+12/1/1944,Crude Oil Production,2.8,Million Barrels
+8/1/1945,Crude Oil Production,1.0,Million Barrels
+12/1/1941,Oil Stocks,48.9,Million Barrels
+12/1/1942,Oil Stocks,37.8,Million Barrels
+12/1/1943,Oil Stocks,25.8,Million Barrels
+12/1/1944,Oil Stocks,15.3,Million Barrels
+8/1/1945,Oil Stocks,3.7,Million Barrels
+12/1/1941,Merchant Shipping,48166.7,Gross Tons
+1/1/1942,Merchant Shipping,57166.7,Gross Tons
+2/1/1942,Merchant Shipping,57166.7,Gross Tons
+3/1/1942,Merchant Shipping,57166.7,Gross Tons
+4/1/1942,Merchant Shipping,57166.7,Gross Tons
+5/1/1942,Merchant Shipping,57166.7,Gross Tons
+6/1/1942,Merchant Shipping,57166.7,Gross Tons
+7/1/1942,Merchant Shipping,57166.7,Gross Tons
+8/1/1942,Merchant Shipping,57166.7,Gross Tons
+9/1/1942,Merchant Shipping,57166.7,Gross Tons
+10/1/1942,Merchant Shipping,57166.7,Gross Tons
+11/1/1942,Merchant Shipping,57166.7,Gross Tons
+12/1/1942,Merchant Shipping,57166.7,Gross Tons
+1/1/1943,Merchant Shipping,72750.0,Gross Tons
+2/1/1943,Merchant Shipping,72750.0,Gross Tons
+3/1/1943,Merchant Shipping,72750.0,Gross Tons
+4/1/1943,Merchant Shipping,72750.0,Gross Tons
+5/1/1943,Merchant Shipping,72750.0,Gross Tons
+6/1/1943,Merchant Shipping,72750.0,Gross Tons
+7/1/1943,Merchant Shipping,72750.0,Gross Tons
+8/1/1943,Merchant Shipping,72750.0,Gross Tons
+9/1/1943,Merchant Shipping,72750.0,Gross Tons
+10/1/1943,Merchant Shipping,72750.0,Gross Tons
+11/1/1943,Merchant Shipping,72750.0,Gross Tons
+12/1/1943,Merchant Shipping,72750.0,Gross Tons
+1/1/1944,Merchant Shipping,71666.7,Gross Tons
+2/1/1944,Merchant Shipping,71666.7,Gross Tons
+3/1/1944,Merchant Shipping,71666.7,Gross Tons
+4/1/1944,Merchant Shipping,71666.7,Gross Tons
+5/1/1944,Merchant Shipping,71666.7,Gross Tons
+6/1/1944,Merchant Shipping,71666.7,Gross Tons
+7/1/1944,Merchant Shipping,71666.7,Gross Tons
+8/1/1944,Merchant Shipping,71666.7,Gross Tons
+9/1/1944,Merchant Shipping,71666.7,Gross Tons
+10/1/1944,Merchant Shipping,71666.7,Gross Tons
+11/1/1944,Merchant Shipping,71666.7,Gross Tons
+12/1/1944,Merchant Shipping,71666.7,Gross Tons
+1/1/1945,Merchant Shipping,33368.5,Gross Tons
+2/1/1945,Merchant Shipping,33368.5,Gross Tons
+3/1/1945,Merchant Shipping,33368.5,Gross Tons
+4/1/1945,Merchant Shipping,33368.5,Gross Tons
+5/1/1945,Merchant Shipping,33368.5,Gross Tons
+6/1/1945,Merchant Shipping,33368.5,Gross Tons
+7/1/1945,Merchant Shipping,33368.5,Gross Tons
+8/1/1945,Merchant Shipping,33368.5,Gross Tons
+12/1/1941,Tanker Tonnage,48166.7,Gross Tons
+1/1/1942,Tanker Tonnage,57166.7,Gross Tons
+2/1/1942,Tanker Tonnage,57166.7,Gross Tons
+3/1/1942,Tanker Tonnage,57166.7,Gross Tons
+4/1/1942,Tanker Tonnage,57166.7,Gross Tons
+5/1/1942,Tanker Tonnage,57166.7,Gross Tons
+6/1/1942,Tanker Tonnage,57166.7,Gross Tons
+7/1/1942,Tanker Tonnage,57166.7,Gross Tons
+8/1/1942,Tanker Tonnage,57166.7,Gross Tons
+9/1/1942,Tanker Tonnage,57166.7,Gross Tons
+10/1/1942,Tanker Tonnage,57166.7,Gross Tons
+11/1/1942,Tanker Tonnage,57166.7,Gross Tons
+12/1/1942,Tanker Tonnage,57166.7,Gross Tons
+1/1/1943,Tanker Tonnage,72750.0,Gross Tons
+2/1/1943,Tanker Tonnage,72750.0,Gross Tons
+3/1/1943,Tanker Tonnage,72750.0,Gross Tons
+4/1/1943,Tanker Tonnage,72750.0,Gross Tons
+5/1/1943,Tanker Tonnage,72750.0,Gross Tons
+6/1/1943,Tanker Tonnage,72750.0,Gross Tons
+7/1/1943,Tanker Tonnage,72750.0,Gross Tons
+8/1/1943,Tanker Tonnage,72750.0,Gross Tons
+9/1/1943,Tanker Tonnage,72750.0,Gross Tons
+10/1/1943,Tanker Tonnage,72750.0,Gross Tons
+11/1/1943,Tanker Tonnage,72750.0,Gross Tons
+12/1/1943,Tanker Tonnage,72750.0,Gross Tons
+1/1/1944,Tanker Tonnage,71666.7,Gross Tons
+2/1/1944,Tanker Tonnage,71666.7,Gross Tons
+3/1/1944,Tanker Tonnage,71666.7,Gross Tons
+4/1/1944,Tanker Tonnage,71666.7,Gross Tons
+5/1/1944,Tanker Tonnage,71666.7,Gross Tons
+6/1/1944,Tanker Tonnage,71666.7,Gross Tons
+7/1/1944,Tanker Tonnage,71666.7,Gross Tons
+8/1/1944,Tanker Tonnage,71666.7,Gross Tons
+9/1/1944,Tanker Tonnage,71666.7,Gross Tons
+10/1/1944,Tanker Tonnage,71666.7,Gross Tons
+11/1/1944,Tanker Tonnage,71666.7,Gross Tons
+12/1/1944,Tanker Tonnage,71666.7,Gross Tons
+1/1/1945,Tanker Tonnage,33368.5,Gross Tons
+2/1/1945,Tanker Tonnage,33368.5,Gross Tons
+3/1/1945,Tanker Tonnage,33368.5,Gross Tons
+4/1/1945,Tanker Tonnage,33368.5,Gross Tons
+5/1/1945,Tanker Tonnage,33368.5,Gross Tons
+6/1/1945,Tanker Tonnage,33368.5,Gross Tons
+7/1/1945,Tanker Tonnage,33368.5,Gross Tons
+8/1/1945,Tanker Tonnage,33368.5,Gross Tons
