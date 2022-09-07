@@ -17,4 +17,6 @@ Repo for visualization on Japan in the pacific during world war 2
 
 # References
 
+Production Data:https://www.amazon.com/gp/product/1854102540/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 
+Japanese merchant shipping losses: https://www.ibiblio.org/hyperwar/Japan/IJN/JANAC-Losses/JANAC-Losses-6.html
